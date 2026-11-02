@@ -1,4 +1,4 @@
-# 🚗 Smart Parking Space Detection
+# 🅿️🚙 Smart Parking Space Detection
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-5C3EE8?logo=opencv&logoColor=white)
 
